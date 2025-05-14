@@ -8,7 +8,7 @@
 
 Passionate about technology and software development, I’m currently expanding my skills in front-end and back-end development for both web and mobile platforms.
 I'm driven by continuous learning and love turning knowledge into innovative, creative, and functional solutions.
-* **I am interested in Web designing, Android development, and digital marketing**
+* **I am interested in Web designing, Android development**
 - 🌱 I’m currently learning:
   - React.js
   - Angular
